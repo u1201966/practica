@@ -1,1 +1,14 @@
 git config.
+
+git init//inicio repositorio
+git status//estado de archivos
+
+2.trackear
+git add . //todo
+git add ""  //nombre del archivo o la direccion
+
+3. commit
+
+git commit -m "lo que hizo"
+
+git log //datos de version
